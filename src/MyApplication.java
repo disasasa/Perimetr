@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class MyApplication {
     public static void main(String[] args) throws FileNotFoundException {
         //Link to source file
-        File file = new File("C:\\Users\\User\\IdeaProjects\\assignment\\src\\source");
+        File file = new File("C:\\Users\\17zor\\IdeaProjects\\assignment\\src\\source");
 
         Scanner sc = new Scanner(file);
 
